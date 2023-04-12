@@ -11,7 +11,7 @@ https://open.kakao.com/o/gC2UPY6d
 
 - 슬랙에 가입해 주세요. 카톡으로 연락 주시면 슬랙에 초대해 드리겠습니다.
 
-- 그간의 활동내용 - https://github.com/donga-it-club/2022-donga-it-club 
+- 2022년 활동내용 - https://github.com/donga-it-club/2022-donga-it-club 
   - 모든 세션 영상이 들어 있습니다.
   - 주차별 발표내용들을 들으신 후 아래 설문을 진행해 주세요.
     - [설문](https://forms.gle/86MnNYfiTwEzoTAD7)
