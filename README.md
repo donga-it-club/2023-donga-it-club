@@ -5,7 +5,7 @@
 
 - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
 
-- [프론트엔드 스터디](
+- [프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5)
 
 ## 단톡방 정보들
 
