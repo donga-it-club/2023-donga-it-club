@@ -8,17 +8,17 @@
 - [프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5) (2023.02.04 ~ 진행중)
 
 ## 단톡방 정보들
--[곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
--[Python’s Pandas vs Polars: Who Wins this Fight in Library](https://analyticsindiamag.com/pythons-pandas-vs-polars-who-wins-this-fight-in-library/)
--[블로거 리더쉽 원칙](https://channy.creation.net/blog/1758)
--[개발자를 위한 PPT 발표앱 MARP](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
--[DevOps Become A DevOps Engineer in 2023](https://devopscube.com/become-devops-engineer/)
--[DevOps 관련 AWS 워크숍_One Observability Workshop](https://catalog.workshops.aws/observability/ko-KR)
--[2023 프로그래머스 개발자 설문조사 리포트](https://programmers.co.kr/pages/2023-dev-survey?utm_source=mailchimp&utm_medium=social&utm_campaign=brand_2023report_noti&utm_content=devsurvey_23mar?utm_source=kakao&utm_medium=social&utm_campaign=brand_2023dev-survey-report&utm_content=share)
--[문과생이 취업할 때 가장 필요한 것은? "직무 관련 경험"](https://blog.naver.com/PostView.naver?blogId=molab_suda&logNo=223032405718&redirect=Dlog&widgetTypeCall=true&directAccess=false)
--[동기부여_당신이 성장하지 못하는 이유](https://www.popit.kr/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
--[동기부여_뇌 과학자가 말하는 보상을 바라면 호율이 떨어지는 이유](https://www.youtube.com/watch?v=_IpS020giJ4)
--[데이터분석가&MLOps 관련 정보_카일스쿨](https://www.youtube.com/c/kyleschool)
+- [곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
+- [Python’s Pandas vs Polars: Who Wins this Fight in Library](https://analyticsindiamag.com/pythons-pandas-vs-polars-who-wins-this-fight-in-library/)
+- [블로거 리더쉽 원칙](https://channy.creation.net/blog/1758)
+- [개발자를 위한 PPT 발표앱 MARP](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
+- [DevOps Become A DevOps Engineer in 2023](https://devopscube.com/become-devops-engineer/)
+- [DevOps 관련 AWS 워크숍_One Observability Workshop](https://catalog.workshops.aws/observability/ko-KR)
+- [2023 프로그래머스 개발자 설문조사 리포트](https://programmers.co.kr/pages/2023-dev-survey?utm_source=mailchimp&utm_medium=social&utm_campaign=brand_2023report_noti&utm_content=devsurvey_23mar?utm_source=kakao&utm_medium=social&utm_campaign=brand_2023dev-survey-report&utm_content=share)
+- [문과생이 취업할 때 가장 필요한 것은? "직무 관련 경험"](https://blog.naver.com/PostView.naver?blogId=molab_suda&logNo=223032405718&redirect=Dlog&widgetTypeCall=true&directAccess=false)
+- [동기부여_당신이 성장하지 못하는 이유](https://www.popit.kr/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [동기부여_뇌 과학자가 말하는 보상을 바라면 호율이 떨어지는 이유](https://www.youtube.com/watch?v=_IpS020giJ4)
+- [데이터분석가&MLOps 관련 정보_카일스쿨](https://www.youtube.com/c/kyleschool)
 
 ## 세션관련
 
