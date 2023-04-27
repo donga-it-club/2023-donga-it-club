@@ -14,4 +14,7 @@
 ## 잔디심기 현황
 
 > github-metrics.svg 앞에 이름과 지망하는 분야를 적어주시고 맨 뒤에는 스페이스를 두 개 넣으셔야 제대로 표시됩니다! (안그러면 이미지가 나오고 그 다음에 이름이 나와요)  
-예) ![image](https://user-images.githubusercontent.com/3435720/163311973-8d35e9c1-edd8-48c4-99d0-3af66862f59e.png  )
+
+
+- [최승현](https://github.com/Vulter3653) – MlOps 엔지니어 지망  
+![https://github.com/Vulter3653]( https://github.com/Vulter3653/Vulter3653/blob/main/github-metrics.svg)
