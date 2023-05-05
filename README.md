@@ -7,6 +7,8 @@
 
 - [프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5) (2023.02.04 ~ 진행중)
 
+- [SQL 스터디](https://www.notion.so/2023-SQL-Data-Analytics-Study-DB-f3c95687573d46228e5f21b92473ac49?pvs=4) (2023.01.03 ~ 진행중)
+
 ## 단톡방 정보들
 - [곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
 - [Python’s Pandas vs Polars: Who Wins this Fight in Library](https://analyticsindiamag.com/pythons-pandas-vs-polars-who-wins-this-fight-in-library/)
