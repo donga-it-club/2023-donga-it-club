@@ -23,6 +23,17 @@
 - [동기부여_당신이 성장하지 못하는 이유](https://www.popit.kr/%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 - [동기부여_뇌 과학자가 말하는 보상을 바라면 호율이 떨어지는 이유](https://www.youtube.com/watch?v=_IpS020giJ4)
 - [데이터분석가&MLOps 관련 정보_카일스쿨](https://www.youtube.com/c/kyleschool)
+- [데이터 엔지니어가 백엔드부터 배워야 하는 이유 | 4년차 현직자의 솔직한 조언](https://www.youtube.com/watch?v=0eu9ny1Z8j0)
+- [데이터 사이언티스트 / 데이터 분석가 / 데이터 엔지니어는 무엇이 다른가요?](https://www.youtube.com/watch?v=0eu9ny1Z8j0)
+- [업스테이지 ChatGPT 강의](https://www.upstage.ai/chatgpt-lecture)
+- [제일 중요한 개발자의 자질](https://www.youtube.com/watch?v=Cl84bjVp5TI)
+- [데이터 분석가 & 데이터 사이언티스트 / 코딩 인터뷰 연습 사이트 StrataScratch](https://platform.stratascratch.com/coding?code_type=1)
+
+## 책추천
+- [현업자 추천 / 프로그래머 열정을 말하다](https://product.kyobobook.co.kr/detail/S000001032926)
+- [백엔드 추천 / 스프링 부트 3 백엔드 개발자 되기(자바 편)](https://goldenrabbit.co.kr/product/springboot3java/)
+- [풀스택 & 프론트엔드 추천 / Node.js 백엔드 개발자 되기](https://goldenrabbit.co.kr/product/be_node_backend/)
+- [데이터 분석 & 데이터 엔지니어링 추천 / 혼자 공부하는 SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6846155853)
 
 ## 세션관련
 
