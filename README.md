@@ -9,7 +9,7 @@
 
 - [SQL 스터디](https://www.notion.so/2023-SQL-Data-Analytics-Study-DB-f3c95687573d46228e5f21b92473ac49?pvs=4) (2023.01.03 ~ 진행중)
 
-- [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 진행중) 
+- [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)
 
 ## 단톡방 정보들
 - [곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
@@ -28,12 +28,15 @@
 - [업스테이지 ChatGPT 강의](https://www.upstage.ai/chatgpt-lecture)
 - [제일 중요한 개발자의 자질](https://www.youtube.com/watch?v=Cl84bjVp5TI)
 - [데이터 분석가 & 데이터 사이언티스트 / 코딩 인터뷰 연습 사이트 StrataScratch](https://platform.stratascratch.com/coding?code_type=1)
+- [재학생들이 사용 가능한 무료/할인 프로그램 모음](https://github.com/serithemage/awesome-student-developer-resources)
+- [2023 데이터 엔지니어가 되는 방법](https://www.datacamp.com/blog/how-to-become-a-data-engineer)
 
 ## 책추천
 - [현업자 추천 / 프로그래머 열정을 말하다](https://product.kyobobook.co.kr/detail/S000001032926)
 - [백엔드 추천 / 스프링 부트 3 백엔드 개발자 되기(자바 편)](https://goldenrabbit.co.kr/product/springboot3java/)
 - [풀스택 & 프론트엔드 추천 / Node.js 백엔드 개발자 되기](https://goldenrabbit.co.kr/product/be_node_backend/)
 - [데이터 분석 & 데이터 엔지니어링 추천 / 혼자 공부하는 SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6846155853)
+- [백엔드 % 프론트엔드 추천 / 러닝 타입스크립트](https://play.google.com/store/books/details/%EC%A1%B0%EC%8B%9C_%EA%B3%A8%EB%93%9C%EB%B2%84%EA%B7%B8_%EB%9F%AC%EB%8B%9D_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?id=s0ymEAAAQBAJ&pli=1)
 
 ## 세션관련
 
