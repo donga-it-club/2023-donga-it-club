@@ -36,7 +36,7 @@
 - [백엔드 추천 / 스프링 부트 3 백엔드 개발자 되기(자바 편)](https://goldenrabbit.co.kr/product/springboot3java/)
 - [풀스택 & 프론트엔드 추천 / Node.js 백엔드 개발자 되기](https://goldenrabbit.co.kr/product/be_node_backend/)
 - [데이터 분석 & 데이터 엔지니어링 추천 / 혼자 공부하는 SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6846155853)
-- [백엔드 % 프론트엔드 추천 / 러닝 타입스크립트](https://play.google.com/store/books/details/%EC%A1%B0%EC%8B%9C_%EA%B3%A8%EB%93%9C%EB%B2%84%EA%B7%B8_%EB%9F%AC%EB%8B%9D_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?id=s0ymEAAAQBAJ&pli=1)
+- [백엔드 & 프론트엔드 추천 / 러닝 타입스크립트](https://play.google.com/store/books/details/%EC%A1%B0%EC%8B%9C_%EA%B3%A8%EB%93%9C%EB%B2%84%EA%B7%B8_%EB%9F%AC%EB%8B%9D_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?id=s0ymEAAAQBAJ&pli=1)
 
 ## 세션관련
 
