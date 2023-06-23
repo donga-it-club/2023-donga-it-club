@@ -30,6 +30,10 @@
 - [데이터 분석가 & 데이터 사이언티스트 / 코딩 인터뷰 연습 사이트 StrataScratch](https://platform.stratascratch.com/coding?code_type=1)
 - [재학생들이 사용 가능한 무료/할인 프로그램 모음](https://github.com/serithemage/awesome-student-developer-resources)
 - [2023 데이터 엔지니어가 되는 방법](https://www.datacamp.com/blog/how-to-become-a-data-engineer)
+- [2023 데이터 엔지니어를 위한 로드맵](https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866)
+- [팀간의 협업에 관하여](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
+- [MLOps & 데이터 엔지니어 / 카카오페이의 MLOps 사례](https://www.youtube.com/watch?v=BbsmOYasu1A)
+- [데이터 관련 직군 / 쏘카의 비지니스 세션](https://www.youtube.com/watch?v=-BtXpc3vre8)
 
 ## 책추천
 - [현업자 추천 / 프로그래머 열정을 말하다](https://product.kyobobook.co.kr/detail/S000001032926)
@@ -37,6 +41,10 @@
 - [풀스택 & 프론트엔드 추천 / Node.js 백엔드 개발자 되기](https://goldenrabbit.co.kr/product/be_node_backend/)
 - [데이터 분석 & 데이터 엔지니어링 추천 / 혼자 공부하는 SQL](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6846155853)
 - [백엔드 & 프론트엔드 추천 / 러닝 타입스크립트](https://play.google.com/store/books/details/%EC%A1%B0%EC%8B%9C_%EA%B3%A8%EB%93%9C%EB%B2%84%EA%B7%B8_%EB%9F%AC%EB%8B%9D_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8?id=s0ymEAAAQBAJ&pli=1)
+- [현업자 추천 / 세이노의 가르침](https://product.kyobobook.co.kr/detail/S000200746091)
+
+## 트러블슈팅 해결 참고자료
+- [자바에서 동시성을 해결하는 다양한 방법과 Redis의 분산락](https://dkswnkk.tistory.com/681)
 
 ## 세션관련
 
