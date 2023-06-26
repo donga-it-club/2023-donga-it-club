@@ -11,6 +11,8 @@
 
 - [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)
 
+- [A/B테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY) (2023.06.27 ~ 진행 중)
+
 ## 단톡방 정보들
 - [곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
 - [Python’s Pandas vs Polars: Who Wins this Fight in Library](https://analyticsindiamag.com/pythons-pandas-vs-polars-who-wins-this-fight-in-library/)
