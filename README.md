@@ -11,7 +11,11 @@
 
 - [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)
 
+- [머신러닝시스템설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06.26 ~ 진행 중) 
+
 - [A/B테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY) (2023.06.27 ~ 2023.09.26)
+
+- [데이터베이스&SQL 스터디](https://www.notion.so/2023-2-Data-Base-SQL-Study-e85fca208ab64b9083d17f8809636956) (2023.06.28 ~ 2023.09.15) 
 
 ## 단톡방 정보들
 - [곧바로 취업되는 프로그래밍 언어, 가장 빨리 취업되는 공부법](https://www.youtube.com/watch?v=Np0sOJEm7mU)
