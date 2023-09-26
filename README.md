@@ -5,9 +5,9 @@
 
 - [AWS 데이터엔지니어링 스터디](https://github.com/donga-it-club/AWS_DataEngineering_Study) (2023.01.06 ~ 2023.03.28)
 
-- [프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5) (2023.02.04 ~ 진행중)
+- [프론트엔드 스터디](https://yoonsang.notion.site/Deep-Dive-6873dcff3f914574a6eda012b1c9a4b5) (2023.02.04 ~ 2023.07.09)
 
-- [SQL 스터디](https://www.notion.so/2023-SQL-Data-Analytics-Study-DB-f3c95687573d46228e5f21b92473ac49?pvs=4) (2023.01.03 ~ 진행중)
+- [SQL 스터디](https://www.notion.so/2023-SQL-Data-Analytics-Study-DB-f3c95687573d46228e5f21b92473ac49?pvs=4) (2023.01.03 ~ 2023.05.10)
 
 - [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)
 
