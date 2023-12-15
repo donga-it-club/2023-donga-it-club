@@ -11,7 +11,7 @@
 
 - [백엔드 스터디](https://github.com/donga-it-club/2023_Node.js_Backend_Study) (2023.02.15 ~ 인원 부족으로 인해 중단)
 
-- [머신러닝시스템설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06.26 ~ 진행 중) 
+- [머신러닝시스템설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06.26 ~ 2023.10.04) 
 
 - [A/B테스트 스터디](https://github.com/donga-it-club/ABTEST_STUDY) (2023.06.27 ~ 2023.09.26)
 
